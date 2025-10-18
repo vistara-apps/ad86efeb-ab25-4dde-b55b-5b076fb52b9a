@@ -1,0 +1,16 @@
+{
+  "accountAssociation": {
+    "header": "Connect your Factory Account to QualityVerse",
+    "payload": "domain:qualityverse.io",
+    "signature": ""
+  },
+  "frame": {
+    "version": "next",
+    "name": "QualityVerse",
+    "iconUrl": "https://qualityverse.io/icon.png",
+    "homeUrl": "https://qualityverse.io/home",
+    "splashImageUrl": "https://qualityverse.io/splash.png",
+    "splashBackgroundColor": "#0A0A0A",
+    "webhookUrl": "https://api.qualityverse.io/farcaster/webhook"
+  }
+}
