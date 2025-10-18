@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "QualityVerse",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-6fb52b9a-4ws7.vercel.app",
+    "imageUrl": "https://ad86efeb-ab25-4dde-b55b-5b076fb52b9a.vercel.app/image.png",
+    "splashImageUrl": "https://ad86efeb-ab25-4dde-b55b-5b076fb52b9a.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-6fb52b9a-4ws7.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "QualityVerse is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://ad86efeb-ab25-4dde-b55b-5b076fb52b9a.vercel.app/screenshot1.png",
+      "https://ad86efeb-ab25-4dde-b55b-5b076fb52b9a.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://ad86efeb-ab25-4dde-b55b-5b076fb52b9a.vercel.app/hero.png",
+    "tagline": "QualityVerse",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "QualityVerse",
+    "ogDescription": "QualityVerse is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://ad86efeb-ab25-4dde-b55b-5b076fb52b9a.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+QualityVerse+at+https%3A%2F%2Fad86efeb-ab25-4dde-b55b-5b076fb52b9a.vercel.app"
+  }
+}

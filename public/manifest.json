@@ -1,0 +1,14 @@
+{
+  "name": "QualityVerse",
+  "description": "QualityVerse is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://ad86efeb-ab25-4dde-b55b-5b076fb52b9a.vercel.app",
+  "properties": {
+    "app": {
+      "name": "QualityVerse",
+      "description": "QualityVerse is a Base Mini App built with Zara.",
+      "url": "https://ad86efeb-ab25-4dde-b55b-5b076fb52b9a.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
